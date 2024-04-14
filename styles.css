@@ -1,0 +1,21 @@
+#button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+#clear-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+#show-count-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+p, span, button {
+    font-size: 20px;
+}
